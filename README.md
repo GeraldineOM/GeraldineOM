@@ -67,9 +67,7 @@ Me gusta construir herramientas que resuelven problemas reales. En mi trabajo he
 
 ## 📫 Contacto
 
-[!\[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:geraldineherrerarod@gmail.com)
+[!\[G](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)mail: geraldineherrerarod@gmail.com
 
-## 📈 Mis estadísticas
-
-!\[Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GeraldineOM\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&locale=es)
+## 
 
